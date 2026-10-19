@@ -10,6 +10,8 @@
 
 ویدئو را برش بزنید یا چند فایل را در یک صف تبدیل کنید. تبدیل H.264 و H.265 در دستگاه‌های سازگار، ادامهٔ پردازش فعال در پس‌زمینه، تاریخچه و پخش یا اشتراک‌گذاری خروجی در دسترس‌اند. فایل اصلی هنگام تبدیل حفظ می‌شود و رابط فارسی و انگلیسی ارائه شده است.
 
+حالت «حجم خیلی کم» وضوح را تا ۳۶۰p و نرخ فریم را تا ۲۴ محدود می‌کند و صدا را کم‌حجم‌تر می‌کند. برای کنترل حجم، در صورت نیاز از کدک نرم‌افزاری استفاده می‌شود که می‌تواند کندتر باشد.
+
 کاهش حجم می‌تواند با افت کیفیت همراه باشد و حجم هدف دقیق تضمین نمی‌شود. کدک‌ها و ابعاد خروجی به رمزگذار گوشی وابسته‌اند. صف پس از توقف اجباری برنامه یا راه‌اندازی مجدد گوشی خودکار بازیابی نمی‌شود.
 
 این برنامه دارای تبلیغات است.
@@ -28,6 +30,8 @@ Video Compressor helps prepare videos for storage and sharing. Choose a quality 
 
 Trim a video or convert multiple files in a queue. H.264 and H.265 output on compatible devices, active background processing, history, playback and sharing are available. Original files are preserved during conversion. Persian and English interfaces are included.
 
+Very Small Size caps resolution at 360p and frame rate at 24 fps, with reduced audio. Size control can use a software encoder when needed, which can be slower.
+
 Smaller files may involve a quality trade-off, and an exact target size is not guaranteed. Codec and output dimensions depend on your phone's encoder. Queues are not automatically restored after force-stopping the app or restarting the phone.
 
 This app contains advertising.
@@ -42,7 +46,7 @@ Native banner in History and Settings, outside active processing. An unavailable
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.3**. Package: `com.sinatools.videocompressor`.
+Android APK, version **1.0.4**. Package: `com.sinatools.videocompressor`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
