@@ -54,3 +54,28 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-video-details.png" width="240" alt="Video Compressor en 01-video-details" />
+<img src="screenshots/en/02-very-small-size.png" width="240" alt="Video Compressor en 02-very-small-size" />
+<img src="screenshots/en/03-batch.png" width="240" alt="Video Compressor en 03-batch" />
+<img src="screenshots/en/04-settings.png" width="240" alt="Video Compressor en 04-settings" />
+<img src="screenshots/en/05-result.png" width="240" alt="Video Compressor en 05-result" />
+<img src="screenshots/en/06-history.png" width="240" alt="Video Compressor en 06-history" />
+
+### فارسی
+
+<img src="screenshots/fa/01-video-details.png" width="240" alt="Video Compressor fa 01-video-details" />
+<img src="screenshots/fa/02-very-small-size.png" width="240" alt="Video Compressor fa 02-very-small-size" />
+<img src="screenshots/fa/03-batch.png" width="240" alt="Video Compressor fa 03-batch" />
+<img src="screenshots/fa/04-settings.png" width="240" alt="Video Compressor fa 04-settings" />
+<img src="screenshots/fa/05-result.png" width="240" alt="Video Compressor fa 05-result" />
+<img src="screenshots/fa/06-history.png" width="240" alt="Video Compressor fa 06-history" />
+
